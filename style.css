@@ -1,0 +1,23 @@
+body {
+    font-family: monospace;
+    font-size: 30px;
+    background-image: radial-gradient(circle, #9aaaff, #d599ea, #fc89c3, #ff8692, #ff9164, #ff905b, #fe9052, #fc9049, #ff7a68, #ff6893, #ff65c4, #f074f6);
+    padding-bottom: 30px;
+}
+.line {
+    height: 7px;
+    background-color: black;
+    width: 120px;
+    margin: 8px auto;
+}
+.carousel-inner p {
+    margin-top: 15px;
+    color:white;
+    font-size: 20px;
+}
+#myCarousel {
+    background-color: crimson;
+    padding-top: 20px;
+    font-family: cursive;
+    font-size: 22px;
+}
